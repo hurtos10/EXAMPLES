@@ -2,3 +2,8 @@ Este es el contenido del archivo
 
 int variable = 5;
 string a = "Hello";
+
+sublime text guardamos ;
+
+es un comentario mas.
+

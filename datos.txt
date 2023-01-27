@@ -1,0 +1,4 @@
+Este es el contenido del archivo
+
+int variable = 5;
+string a = "Hello";
